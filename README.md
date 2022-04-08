@@ -1,5 +1,4 @@
-<!-- 
-Project: #2/ JTC: New York City Guide
+ Project: #2/ JTC: New York City Guide
 
 Group Members: Darien Davis https://github.com/DDavis-CP
                Shawn Hing https://github.com/Shawner1
@@ -27,4 +26,4 @@ Run the Django application:                      pip freeze > requirements.txt
 
 
 
--->
+
