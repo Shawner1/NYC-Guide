@@ -1,4 +1,4 @@
-WELCOME TO PROJECT #2/ JTC: New York City Guide
+WELCOME! TO PROJECT #2/ JTC: "New York City Guide"
 ------------------------------------------------------------------
 GROUP MEMBERS: 
 ------------------------------------------------------------------
