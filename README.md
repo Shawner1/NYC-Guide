@@ -11,7 +11,7 @@ GROUP MEMBERS: Darien Davis https://github.com/DDavis-CP
                                                       (Bash users) source django-env/Scripts/activate
                                                       (Unix or MacOS) source django-env/bin/activate
 
-2.Install PROJECT DEPENDENCIES WITH PIP:           A)pip install django
+2.INSTALL PROJECT DEPENDENCIES WITH PIP:           A)pip install django
 
 3.RUN THE DJANGO APLICATION:                       A)pip freeze > requirements.txt
                                                    B)now: python manage.py runserver
