@@ -1,4 +1,4 @@
-WELCOME! TO "Project 2: Build a New York City Guide in Django!". CHECK OUT ALL THE ACTIVITIES IN EACH BOROUGH! 
+WELCOME TO "Project 2: Build a New York City Guide in Django!", WHERE YOU CAN CHECK OUT ALL THE ACTIVITIES IN EACH BOROUGH! 
 -------------------------------------------------------------------------------------------------------------
 GROUP MEMBERS: 
 --------------
@@ -7,7 +7,7 @@ https://github.com/DDavis-CP
 https://github.com/Shawner1                        
  
 
-USING OUR DIRECTORY IS A LOT OF FUN, AND BELOW IS A QUICK TECHNICAL SET-UP TO GET YOU STARTED!
+OUR NYC GUIDE IS A LOT OF FUN! BELOW, FOLLOW THIS QUICK TECHNICAL SET-UP SO YOU CAN START USING IT:
 --------------------------------------------------------------------------------------------------------------
 1.CREATE AND RUN A VIRTUAL ENVIRONMENT USING VENV: 
 --------------------------------------------------
