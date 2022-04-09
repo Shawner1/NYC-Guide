@@ -1,4 +1,4 @@
-PROJECT: #2/ JTC: New York City Guide
+WELCOME TO PROJECT #2/ JTC: New York City Guide
 ------------------------------------------------------------------
 GROUP MEMBERS: 
 ------------------------------------------------------------------
@@ -34,6 +34,8 @@ B) then: python manage.py runserver
 
 C) finally: http://127.0.0.1:8000/
 
+YOU DID IT! NOW PLEASE HAVE SOME MORE FUN WITH OUR GUIDE!
+------------------------------------------------------------------
                                           
 
 
