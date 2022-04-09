@@ -1,4 +1,4 @@
-WELCOME! TO Project 2: "Build a New York City Guide in Django!". CHECK OUT ALL THE ACTIVITIES IN EACH BOROUGH! 
+WELCOME! TO "Project 2: Build a New York City Guide in Django!". CHECK OUT ALL THE ACTIVITIES IN EACH BOROUGH! 
 -------------------------------------------------------------------------------------------------------------
 GROUP MEMBERS: 
 --------------
