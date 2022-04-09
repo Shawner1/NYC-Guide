@@ -1,4 +1,4 @@
-WELCOME TO "Project 2: Build a New York City Guide in Django!", WHERE YOU CAN CHECK OUT ALL THE ACTIVITIES IN EACH BOROUGH! 
+WELCOME TO "Project 2: Build a New York City Guide in Django!". WITH OUR FUN AND EASY TO USE WEBSITE, YOU CAN CHECK OUT ALL THE ACTIVITIES IN EACH BOROUGH! 
 -------------------------------------------------------------------------------------------------------------
 GROUP MEMBERS: 
 --------------
@@ -37,7 +37,7 @@ B) execute: python manage.py runserver
 
 C) finally: http://127.0.0.1:8000/
 
-CONGRATULATIONS! YOU DID IT! NOW GO EXPLORE NEW YORK CITY USING OUR FUN GUIDE! 
+CONGRATULATIONS! YOU DID IT! NOW EXPLORE NYC USING OUR FUN GUIDE! 
 ------------------------------------------------------------------------------------
                                           
 
