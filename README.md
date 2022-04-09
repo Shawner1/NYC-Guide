@@ -34,7 +34,7 @@ B) next: python manage.py runserver
 
 C) finally: http://127.0.0.1:8000/
 
-YOU DID IT! NOW PLEASE HAVE SOME MORE FUN WITH OUR GUIDE!
+YOU DID IT! PLEASE HAVE MORE FUN USING OUR NEW YORK CITY GUIDE!
 ------------------------------------------------------------------
                                           
 
