@@ -1,16 +1,16 @@
-WELCOME! TO Project 2: Build a New York City Guide in Django!
-------------------------------------------------------------------
+WELCOME! TO Project 2: "Build a New York City Guide in Django!". CHECK OUT ALL THE ACTIVITIES IN EACH BOROUGH! 
+-------------------------------------------------------------------------------------------------------------
 GROUP MEMBERS: 
-------------------------------------------------------------------
+--------------
 https://github.com/DDavis-CP              
 
 https://github.com/Shawner1                        
+ 
 
-EXPLORE NYC USING OUR DIRECTORY! HERE'S A QUICK TECHNICAL SET-UP TO GET YOU STARTED:
-------------------------------------------------------------------
-
+USING OUR DIRECTORY IS A LOT OF FUN, AND BELOW IS A QUICK TECHNICAL SET-UP TO GET YOU STARTED!
+--------------------------------------------------------------------------------------------------------------
 1.CREATE AND RUN A VIRTUAL ENVIRONMENT USING VENV: 
-------------------------------------------------------------------
+--------------------------------------------------
 A) first:  mkdir [name of your directory]
 
 B) second: [name of your directory]
@@ -37,8 +37,8 @@ B) execute: python manage.py runserver
 
 C) finally: http://127.0.0.1:8000/
 
-YOU DID IT! TIME TO CHECK OUT ALL THE ACTIVITIES IN EACH BOROUGH!
-------------------------------------------------------------------
+CONGRATULATIONS! YOU DID IT! NOW GO EXPLORE NEW YORK CITY USING OUR FUN GUIDE! 
+------------------------------------------------------------------------------------
                                           
 
 
