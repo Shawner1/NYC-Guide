@@ -1,10 +1,13 @@
-WELCOME! TO PROJECT #2/ JTC: "New York City Guide"
+WELCOME! TO Project 2: Build a New York City Guide in Django!
 ------------------------------------------------------------------
 GROUP MEMBERS: 
 ------------------------------------------------------------------
 https://github.com/DDavis-CP              
 
 https://github.com/Shawner1                        
+
+EXPLORE NYC USING OUR DIRECTORY! LET'S GET YOU STARTED!:
+------------------------------------------------------------------
 
 1.CREATE AND RUN A VIRTUAL ENVIRONMENT USING VENV: 
 ------------------------------------------------------------------
@@ -34,7 +37,7 @@ B) execute: python manage.py runserver
 
 C) finally: http://127.0.0.1:8000/
 
-YOU DID IT! PLEASE HAVE MORE FUN USING OUR NEW YORK CITY GUIDE!
+YOU DID IT! TIME TO CHECK OUT ALL THE ACTIVITIES IN EACH BOROUGH!
 ------------------------------------------------------------------
                                           
 
