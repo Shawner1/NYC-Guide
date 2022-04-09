@@ -28,9 +28,9 @@ A) here: pip install django
 
 3.RUN THE DJANGO APLICATION:                       
 ------------------------------------------------------------------
-A) then: pip freeze > requirements.txt
+A) do: pip freeze > requirements.txt
 
-B) next: python manage.py runserver
+B) execute: python manage.py runserver
 
 C) finally: http://127.0.0.1:8000/
 
