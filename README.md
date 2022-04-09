@@ -2,7 +2,7 @@ PROJECT: #2/ JTC: New York City Guide
 
 GROUP MEMBERS: Darien Davis https://github.com/DDavis-CP
                Shawn Hing https://github.com/Shawner1
-
+------------------------------------------------------------------
 1.CREATE AND RUN A VIRTUAL ENVIRONMENT USING VENV: 
 
 A) mkdir [name of your directory]
@@ -15,10 +15,10 @@ D) run: python -m venv django-env (or python3 -m venv django-env)
 
 E) then:(Windows users) django-env\Scripts\activate.bat 
    
-(Bash users) source django-env/Scripts/activate
+*(Bash users) source django-env/Scripts/activate
    
-(Unix or MacOS) source django-env/bin/activate
-
+*(Unix or MacOS) source django-env/bin/activate
+------------------------------------------------------------------
 2.INSTALL PROJECT DEPENDENCIES WITH PIP:           
 
 A) pip install django
