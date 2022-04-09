@@ -6,7 +6,7 @@ https://github.com/DDavis-CP
 
 https://github.com/Shawner1                        
 
-EXPLORE NYC USING OUR DIRECTORY! LET'S GET YOU STARTED!:
+EXPLORE NYC USING OUR DIRECTORY! HERE'S A QUICK SET-UP TO GET YOU STARTED:
 ------------------------------------------------------------------
 
 1.CREATE AND RUN A VIRTUAL ENVIRONMENT USING VENV: 
