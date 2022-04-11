@@ -1,22 +1,44 @@
- Project: #2/ JTC: New York City Guide
+WELCOME TO "Project 2: Build a New York City Guide in Django!". WITH OUR FUN AND EASY TO USE WEBSITE, YOU CAN CHECK OUT ALL THE ACTIVITIES IN EACH BOROUGH! 
+-------------------------------------------------------------------------------------------------------------
+GROUP MEMBERS: 
+--------------
+https://github.com/DDavis-CP              
 
-Group Members: Darien Davis https://github.com/DDavis-CP
-               Shawn Hing https://github.com/Shawner1
+https://github.com/Shawner1                        
+ 
 
-Create and run a virtual environment using venv: mkdir [name of your directory]
-                                                 cd [name of your directory]
-                                                 clone into directory: https://github.com/Shawner1/NYC-Guide.git 
-                                                 run: python -m venv django-env (or python3 -m venv django-env)
-                                                 then:(Windows users) django-env\Scripts\activate.bat 
-                                                      (Bash users) source django-env/Scripts/activate
-                                                      (Unix or MacOS) source django-env/bin/activate
+OUR NYC GUIDE IS A LOT OF FUN! BELOW, FOLLOW THIS QUICK TECHNICAL SET-UP SO YOU CAN START USING IT:
+--------------------------------------------------------------------------------------------------------------
+1.CREATE AND RUN A VIRTUAL ENVIRONMENT USING VENV: 
+--------------------------------------------------
+A) first:  mkdir [name of your directory]
 
-Install project dependencies with pip:           pip install django
+B) second: [name of your directory]
 
-Run the Django application:                      pip freeze > requirements.txt
-                                                 now: python manage.py runserver
-                                                 finally: http://127.0.0.1:8000/
+C) then: clone into directory: https://github.com/Shawner1/NYC-Guide.git 
 
+D) next: python -m venv django-env (or python3 -m venv django-env)
+
+E) now: (Windows users) django-env\Scripts\activate.bat 
+   
+   (Bash users) source django-env/Scripts/activate
+   
+   (Unix or MacOS) source django-env/bin/activate
+
+2.INSTALL PROJECT DEPENDENCIES WITH PIP:           
+------------------------------------------------------------------
+A) here: pip install django
+
+3.RUN THE DJANGO APLICATION:                       
+------------------------------------------------------------------
+A) do: pip freeze > requirements.txt
+
+B) execute: python manage.py runserver
+
+C) finally: http://127.0.0.1:8000/
+
+CONGRATULATIONS! YOU DID IT! NOW EXPLORE NYC USING OUR FUN GUIDE! 
+------------------------------------------------------------------------------------
                                           
 
 
